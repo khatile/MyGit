@@ -31,5 +31,10 @@ git log --author='rohit' --oneline -3 --since=8-9-2020
 git log --oneline --grep="#"
 
 
+#Git Ignore
+Add file with ".gitignore"
+update ignore files/folder path in that file.
+git add and commit 
+
 
 
