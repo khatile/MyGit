@@ -12,7 +12,10 @@ git config --global core.editor notepad
 
 git init
 
-# 
+#Change Files
 git diff 
 
 git diff --stage
+
+#Add and commit in single line
+git commit -am "Add and commit in single line"
