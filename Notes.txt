@@ -19,3 +19,17 @@ git diff --stage
 
 #Add and commit in single line
 git commit -am "Add and commit in single line"
+
+
+#git logs
+git log
+git log --oneline
+git log --oneline -2
+git log --author='rohit' --oneline -2
+git log --author='rohit' --oneline -3 --until=8-9-2020
+git log --author='rohit' --oneline -3 --since=8-9-2020
+git log --oneline --grep="#"
+
+
+
+
