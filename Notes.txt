@@ -34,7 +34,12 @@ git log --oneline --grep="#"
 #Git Ignore
 Add file with ".gitignore"
 update ignore files/folder path in that file.
-git add and commit 
+it add and commit 
 
+#Undo
+
+restore -- for uncommited changes(after add)
+revert -- commit changes --> safe undo --> rewrite a history --> doesn't delete commit 
+reset -- commmited changes --> danger undo --> can delete commit
 
 
