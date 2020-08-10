@@ -9,4 +9,10 @@ git config --global core.editor notepad
 
 
 #Initialize Repository
+
 git init
+
+# 
+git diff 
+
+git diff --stage
