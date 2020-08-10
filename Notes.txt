@@ -41,5 +41,8 @@ it add and commit
 restore -- for uncommited changes(after add)
 revert -- commit changes --> safe undo --> rewrite a history --> doesn't delete commit 
 reset -- commmited changes --> danger undo --> can delete commit
+	--soft ->
+	--mixed ->
+	--hard ->Undo everything from commit 
 
 
