@@ -46,3 +46,6 @@ reset -- commmited changes --> danger undo --> can delete commit
 	--hard ->Undo everything from commit 
 
 
+git reset HEAD --hard  --> come to out of messy state
+
+
